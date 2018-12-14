@@ -1,0 +1,6 @@
+.coa-select-container>.coa-select__control.coa-select__control--is-focused {
+    border: none !important;
+    outline: 2px dotted #333333 !important;
+    outline-offset: 1px !important;
+    box-shadow: 0 0 0 1px #777777 !important;
+}

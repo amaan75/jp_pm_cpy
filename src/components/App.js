@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import Constants from "../utils/Constants"
 import Select from "react-select";
-import 'react-select/dist/react-select.css';
-import "./select.css";
+import "./select1.css";
+import "./select2.css";
 class App extends Component {
 
   state = {
