@@ -12,8 +12,9 @@
 
 /* update for height  */
 
-.coa-select-container>.Select-control {
+.coa-select-container>.coa-select__control {
     height: 25px !important;
+    min-height: 20px !important;
 }
 
 /* update for height */
