@@ -4,3 +4,11 @@
     outline-offset: 1px !important;
     box-shadow: 0 0 0 1px #777777 !important;
 }
+
+.coa-select-container>.coa-select__control>.coa-select__value-container {
+    position: unset !important;
+}
+
+.coa-select-container>.coa-select__control>.coa-select__value-container>.coa-select__indicators>.coa-select__indicator.coa-select__dropdown-indicator {
+    padding: 0;
+}
