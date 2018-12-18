@@ -10,5 +10,10 @@
 }
 
 .coa-select-container>.coa-select__control>.coa-select__value-container>.coa-select__indicators>.coa-select__indicator.coa-select__dropdown-indicator {
-    padding: 0;
+    padding: 0 !important;
+}
+
+.coa-select__option.coa-select__option--is-selected {
+    background-color: transparent !important;
+    color: black !important;
 }
