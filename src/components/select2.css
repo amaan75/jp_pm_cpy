@@ -17,3 +17,8 @@
     background-color: transparent !important;
     color: black !important;
 }
+
+.coa-select__option.coa-select__option.coa-select__option--is-focused.coa-select__option--is-selected {
+    background-color: rgb(240, 240, 255) !important;
+    color: black !important;
+}
